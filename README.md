@@ -28,7 +28,7 @@ This project utilizes the **Google Trends API (Pytrends)** to analyze public int
 1. **Clone the repo**:
 
    ```bash
-   git clone https://github.com/your-username/google-search-analysis.git
+   git clone https://github.com/outgoingrudra/google-search-analysis.git
    cd google-search-analysis
    ```
 
