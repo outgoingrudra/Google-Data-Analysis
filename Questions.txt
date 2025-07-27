@@ -1,0 +1,5 @@
+1. Write a code where, by changing just the keyword, we can search for multiple things.
+2. Find the top 15 countries where the keyword is searched the most, and also create a visual representation of it.
+3. Plot a world map showing the countries that search the keyword the most.
+4. Extract the time-wise interest of the keyword — how it trended in different years.
+5. Compare related keywords and plot the graph.
